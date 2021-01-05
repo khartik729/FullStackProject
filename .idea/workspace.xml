@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce70f49c-fe52-4bef-9bf2-0daeaa837f0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/client/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/pages/api/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/pages/api/hello.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectId" id="1lyWpSYKrKGGsNAjsMgEyzLmeK7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/server/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce70f49c-fe52-4bef-9bf2-0daeaa837f0b" name="Default Changelist" comment="" />
+      <created>1608569995132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608569995132</updated>
+      <workItem from="1608569996708" duration="1607000" />
+      <workItem from="1608572416951" duration="133000" />
+      <workItem from="1608575203598" duration="1788000" />
+      <workItem from="1608577021668" duration="1725000" />
+      <workItem from="1608578860542" duration="2003000" />
+      <workItem from="1608664144632" duration="1620000" />
+      <workItem from="1608666071874" duration="1793000" />
+      <workItem from="1608667896759" duration="1787000" />
+      <workItem from="1608669725159" duration="1849000" />
+      <workItem from="1608671751233" duration="718000" />
+      <workItem from="1608673051472" duration="1230000" />
+      <workItem from="1608677662850" duration="1645000" />
+      <workItem from="1608680752422" duration="1555000" />
+      <workItem from="1608682572641" duration="1781000" />
+      <workItem from="1608742929374" duration="42000" />
+      <workItem from="1608914736100" duration="1323000" />
+      <workItem from="1609095087018" duration="1756000" />
+      <workItem from="1609097002375" duration="1675000" />
+      <workItem from="1609108910745" duration="1419000" />
+      <workItem from="1609110723436" duration="1744000" />
+      <workItem from="1609112538308" duration="1020000" />
+      <workItem from="1609429969788" duration="9000" />
+      <workItem from="1609543736207" duration="1231000" />
+      <workItem from="1609624524333" duration="4000" />
+      <workItem from="1609783284079" duration="118000" />
+      <workItem from="1609783407700" duration="712000" />
+      <workItem from="1609797468688" duration="1637000" />
+      <workItem from="1609810190056" duration="233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608681593272">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="721" y="219" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1608681593272" />
+    <state x="4419" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608667134265">
+      <screen x="1792" y="0" width="3840" height="1080" />
+    </state>
+    <state x="4419" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120/1792.0.3840.1080@1792.0.3840.1080" timestamp="1608667134265" />
+    <state x="4409" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608674213294">
+      <screen x="1792" y="0" width="3840" height="1080" />
+    </state>
+    <state x="4409" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120/1792.0.3840.1080@1792.0.3840.1080" timestamp="1608674213294" />
+    <state width="869" height="318" key="GridCell.Tab.0.bottom" timestamp="1608681726926">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1900" height="305" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.0.3840.1080@1792.0.3840.1080" timestamp="1608576220703" />
+    <state width="869" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1608681726926" />
+    <state width="869" height="318" key="GridCell.Tab.0.center" timestamp="1608681726925">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1900" height="305" key="GridCell.Tab.0.center/0.0.1792.1120/1792.0.3840.1080@1792.0.3840.1080" timestamp="1608576220702" />
+    <state width="869" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1608681726925" />
+    <state width="869" height="318" key="GridCell.Tab.0.left" timestamp="1608681726924">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1900" height="305" key="GridCell.Tab.0.left/0.0.1792.1120/1792.0.3840.1080@1792.0.3840.1080" timestamp="1608576220701" />
+    <state width="869" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1608681726924" />
+    <state width="869" height="318" key="GridCell.Tab.0.right" timestamp="1608681726926">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1900" height="305" key="GridCell.Tab.0.right/0.0.1792.1120/1792.0.3840.1080@1792.0.3840.1080" timestamp="1608576220702" />
+    <state width="869" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1608681726926" />
+    <state x="4268" y="284" key="SettingsEditor" timestamp="1609544163412">
+      <screen x="1792" y="0" width="3840" height="1080" />
+    </state>
+    <state x="4268" y="284" key="SettingsEditor/0.0.1792.1120/1792.0.3840.1080@1792.0.3840.1080" timestamp="1609544163412" />
+  </component>
+</project>
